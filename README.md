@@ -5,7 +5,7 @@ Master's in Energy and Environmental Management | Specializing in Energy Systems
 
 - 📫 How to reach me: Phone number: (+49) 01742460003, Email address: ashishsinghrawat24@gmail.com, LinkedIn: https://www.linkedin.com/in/ashish-rawat-8a32a910b/
 
-- ⚡ Languages: Python Programming DATABASE: SQL, SQL Lite PSS®E Xplore PyPSA Microsoft Office (Outlook, Excel, Word, PowerPoint) Matlab/Simulik QGIS: basic level R, R Studio, R Markdown Power BI Power App
+- ⚡ Languages: Python Programming, DATABASE: SQL Lite, PSS®E Xplore, PyPSA, Microsoft Office (Outlook, Excel, Word, PowerPoint) Matlab/Simulik QGIS: basic level R, R Studio, R Markdown, Power BI Power App
 
 - Thanks for visiting! 😊
 
