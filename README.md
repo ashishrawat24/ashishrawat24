@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm Ashish Singh Rawat👋
+Master's in Energy and Environmental Management | Specializing in Energy Systems & Battery Storage
 <!--
 **ashishrawat24/ashishrawat24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
