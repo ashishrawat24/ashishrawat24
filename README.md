@@ -1,7 +1,12 @@
 ## Hi there, I'm Ashish Singh Rawat👋
 Master's in Energy and Environmental Management | Specializing in Energy Systems & Battery Storage
 
-Professional Experience: I have more than three years of experience in energy sector in India and also devloped grid automation algorithim for a distribution system operator (DSO) in Germany
+Professional Experience: I have more than three years of experience in the energy sector in India and have also developed grid automation algorithms for a distribution system operator (DSO) in Germany
+
+How to reach me: Phone number: (+49) 01742460003, 
+Email address: ashishsinghrawat24@gmail.com, LinkedIn:
+https://www.linkedin.com/in/ashish-rawat-8a32a910b/
+
 
 
 <!--
@@ -9,7 +14,8 @@ Professional Experience: I have more than three years of experience in energy se
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m Professional Experience: I have more than three years of experience in the energy sector in India and have also developed grid automation algorithms for a distribution system operator (DSO) in Germany
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
