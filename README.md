@@ -1,11 +1,15 @@
 ## Hi there, I'm Ashish Singh Rawat👋
 Master's in Energy and Environmental Management | Specializing in Energy Systems & Battery Storage
+
+Professional Experience: I have more than three years of experience in energy sector in India and also devloped grid automation algorithim for a distribution system operator (DSO) in Germany
+
+
 <!--
 **ashishrawat24/ashishrawat24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
